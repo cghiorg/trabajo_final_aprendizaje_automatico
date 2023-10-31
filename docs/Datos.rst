@@ -1,8 +1,11 @@
 Informe sobre el Conjunto de Datos
 =================================
 El conjunto de datos consta de 302 filas o instancias y 5 columnas que representan diferentes atributos. A continuación, se detalla la información actualizada hasta la fecha de esta revisión.
+
 Descripción del Conjunto de Datos
+=================================
 1.	Cantidad de Instancias: El conjunto de datos se compone de 302 filas, cada una representando una observación única de una encuesta realizada en 2018.
+
 2.	Características (Columnas): El conjunto de datos tiene 5 columnas que representan diferentes atributos o variables:
   •	Sexo (Tipo float): Esta columna almacena información sobre el género o sexo de las personas. Los valores en esta columna son:
     •	1 Hombre
@@ -31,4 +34,5 @@ Descripción del Conjunto de Datos
     •	1: A favor del aborto.
     •	2: En contra del aborto.
     •	3: No Sabe/No Contesta.
+
 3.	Fuente de Datos: Los datos se recopilaron a partir de una encuesta realizada en la ciudad de Rio Grande en año 2018 y fueron proporcionados por la consultora Neodelfos.
