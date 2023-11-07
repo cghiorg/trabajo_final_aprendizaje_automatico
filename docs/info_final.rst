@@ -1,5 +1,6 @@
-**Informe detallado sobre el Aprendizaje Automático
-para Predecir la Opinión sobre el Aborto**
+Informe detallado sobre el Aprendizaje Automático
+para Predecir la Opinión sobre el Aborto
+================================================
 
 **Introducción**
 
@@ -115,6 +116,9 @@ de datos, respaldando su aplicabilidad en diferentes contextos. La
 aplicación del aprendizaje automático en la predicción de opiniones
 públicas basadas en datos demográficos se mostró exitosa, respaldando su
 utilidad en la toma de decisiones basada en datos.
+
+
+
 
 *\* Fuentes generación de datos sintéticos*
 
