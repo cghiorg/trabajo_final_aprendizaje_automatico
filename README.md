@@ -16,7 +16,9 @@ El proyecto se centra en responder a la siguiente pregunta de investigación:
 ¿Es posible predecir con precisión las opiniones sobre el aborto a partir de estas variables demográficas?
 La hipótesis subyacente es que las variables demográficas seleccionadas tendrán un impacto significativo en las opiniones sobre el aborto. Se espera que ciertos grupos demográficos tengan una mayor probabilidad de estar a favor o en contra del aborto, y que el modelo de aprendizaje automático pueda capturar estas relaciones para realizar predicciones precisas.
 
-[Documento de Datos](/docs/Datos.rst)
+[Informe sobre origen y tipo de Datos](/docs/Datos.rst)
+
+[Informe Final del trabajo](/docs/info_final.rst)
 
 Project Organization
 ------------
