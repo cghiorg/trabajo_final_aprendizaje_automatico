@@ -1,6 +1,7 @@
-Informe final Aprendizaje Automático para Predecir la Opinión sobre el Aborto
+Informe final Aprendizaje Automático
 =================================
 
+**Trabajo para Predecir opiniones sobre el aborto**
 
 **Introducción**
 
