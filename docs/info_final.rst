@@ -1,5 +1,4 @@
-Informe detallado sobre el Aprendizaje Automático
-para Predecir la Opinión sobre el Aborto
+Informe detallado sobre el Aprendizaje Automátic para Predecir la Opinión sobre el Aborto
 =================================
 
 
