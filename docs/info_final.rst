@@ -121,6 +121,12 @@ utilidad en la toma de decisiones basada en datos.
 
 
 
+
+*\* Encuesta nacional realizada en el año 2018 sobre el aborto por Facultad de Ciencias Sociales de la Universidad de Buenos Aires a través del Centro de
+Opinión Pública y Estudios Sociales (COPES)*
+
+https://www.sociales.uba.ar/wp-content/blogs.dir/219/files/2018/07/Encuesta-aborto-COPES-FSOC-UBA-Junio-2018-.pdf
+
 *\* Fuentes generación de datos sintéticos*
 
 https://www.ciospain.es/big-data/que-son-los-datos-sinteticos-datos-generados-para-ayudar-a-tu-estrategia-de-ia
