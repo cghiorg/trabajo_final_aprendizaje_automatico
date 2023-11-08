@@ -81,6 +81,17 @@ todas las categorías de opinión sobre el aborto. Además, la generación
 de datos sintéticos permitió una mayor robustez del modelo y su
 aplicabilidad a diferentes conjuntos de datos.
 
+**Comparación de Modelos**
+
+Es importante destacar que, durante el proceso de modelado, se
+abordó un problema de clasificación, donde el objetivo era predecir
+la opinión de las personas sobre el aborto en categorías específicas.
+Para ello se experimentó con varios algoritmos de aprendizaje automático,
+como K-Nearest Neighbors (KNN) y Árboles de Decisión. Aunque se
+probó inicialmente con KNN, el mejor desempeño se logró con el modelo
+de Árbol de Decisión. Este modelo superó a los demás algoritmos en
+términos de precisión, lo que justifica su elección final.
+
 **Resultados**
 
 Los resultados del modelo de aprendizaje automático fueron altamente
