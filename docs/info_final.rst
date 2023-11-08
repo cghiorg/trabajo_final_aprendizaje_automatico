@@ -98,11 +98,9 @@ Los resultados del modelo de aprendizaje automático fueron altamente
 exitosos, con una matriz de confusión que muestra la clasificación
 perfecta en todas las categorías.
 
-[29 0 0]
-
-[ 0 26 0]
-
-[ 0 0 3]
+[29  0  0]
+[ 0 25  0]
+[ 0  0  4]
 
 Además, las métricas de evaluación del modelo, que incluyen precisión,
 recall y f1-score, muestran valores ideales de 1.00 para todas las
